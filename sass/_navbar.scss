@@ -1,0 +1,19 @@
+
+.navbar-nav {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: end;
+
+  a {
+    color: $color-texto;
+    font-size: 1.2em;
+    margin: 10px;
+    text-decoration: none;
+  }
+}
+
+.container-fluid {
+  background-color: $color-principal;
+}
